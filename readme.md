@@ -7,16 +7,16 @@ With another trainee, fix the styling of this page. Your instructor has an end-p
 The HTML is complete except for a little bit of copy you'll need to write for the different projects our company is working on. Almost all of your work will be done in the file named `main.css`.
 
 ## Tasks
-[] Check these tasks off by placing an `x` in between the brackets!
+[ ] Check these tasks off by placing an `x` in between the brackets!
 
-[] Create a `heading` class in `main.css` and style it to match the end-product
+[ ] Create a `heading` class in `main.css` and style it to match the end-product
 
-[] Style all `<h1>` elements to be `60px` in size
+[ ] Style all `<h1>` elements to be `60px` in size
 
-[] Create a class called `project-card` and style it to match the end-product
+[ ] Create a class called `project-card` and style it to match the end-product
 
-[] Create a `proj-title` class with a font-size of `40px`
+[ ] Create a `proj-title` class with a font-size of `40px`
 
-[] Create a `card-text` class with a font-size of `25px`
+[ ] Create a `card-text` class with a font-size of `25px`
 
-[] Style images to stay within their parents if the screen is resized
+[ ] Style images to stay within their parents if the screen is resized
