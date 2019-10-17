@@ -23,3 +23,5 @@ The HTML is complete except for a little bit of copy you'll need to write for th
 [] Create a `card-text` class with a font-size of `25px`
 
 [] Style images to stay within their parents if the screen is resized
+
+Don't forget to come show me these when you're done! There's a challenge after you're finished.
